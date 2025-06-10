@@ -27,18 +27,23 @@ CODSOFT-Java-Internship/
 │
 ├── Task 1 - Number Guessing Game/
 │ └── NumberGame.java
+
 │
 ├── Task 2 - Student Grade Calculator/
 │ └── GradeCalculator.java
+
 │
 ├── Task 3 - ATM Interface/
 │ └── ATM.java
+
 │
 ├── Task 4 - Quiz Application with Timer/
 │ └── QuizApp.java
+
 │
 ├── Task 5 - Student Course Registration System/
 │ └── CourseRegistration.java
+
 │
 └── README.md
 
