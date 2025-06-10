@@ -24,8 +24,8 @@ CodSoft is a dynamic platform focused on leadership development, learning, and s
 Each folder in this repository corresponds to a separate internship task.
 
 CODSOFT-Java-Internship/
-│
 
+│
 ├── Task 1 - Number Guessing Game/
 │ └── NumberGame.java
 
